@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-source-serif-pro: "Source Serif Pro";
+    --font-lexend-deca: "Lexend Deca";
+    --font-lato: Lato;
+    --font-inter: Inter;
+  
+    /* font sizes */
+    --font-size-xs: 12px;
+    --font-size-lg: 18px;
+  
+    /* Colors */
+    --color-gray-100: #8d8d8d;
+    --color-gray-200: #201f1f;
+    --color-darkslategray: #343333;
+    --color-silver: #ccc6c6;
+    --color-black: #000;
+  
+    /* Border radiuses */
+    --br-10xs-2: 2.2px;
+  }

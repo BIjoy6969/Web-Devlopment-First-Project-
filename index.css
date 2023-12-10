@@ -1,0 +1,478 @@
+.about-us-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #cbcda9;
+    width: 1440px;
+    height: 53px;
+    overflow: hidden;
+  }
+  .home {
+    position: relative;
+    font-weight: 500;
+  }
+  .home-parent {
+    position: absolute;
+    top: 88px;
+    left: calc(50% - 152px);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 52px;
+    font-family: var(--font-inter);
+  }
+  .postive-caring-relationships-t-icon {
+    position: absolute;
+    top: 152px;
+    left: 0;
+    width: 1440px;
+    height: 530px;
+    object-fit: cover;
+  }
+  .from-preschool-to {
+    position: relative;
+    font-size: var(--font-size-5xl);
+    font-weight: 600;
+    font-family: var(--font-lato);
+    text-align: center;
+    display: inline-block;
+    width: 663px;
+  }
+  .about-us-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .see-more {
+    position: relative;
+    font-weight: 600;
+  }
+  .see-more-wrapper {
+    border-radius: 10px;
+    background-color: var(--color-gold-100);
+    width: 135px;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: var(--font-size-lg);
+    color: var(--color-black);
+    font-family: var(--font-lato);
+  }
+  .frame-parent {
+    position: absolute;
+    top: 275px;
+    left: 388px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 35px;
+    font-size: 96px;
+    color: var(--color-white);
+  }
+  .frame-child {
+    position: absolute;
+    margin: 0 !important;
+    top: 98px;
+    left: 0;
+    background-color: var(--color-gold-100);
+    width: 309px;
+    height: 3px;
+    z-index: 0;
+  }
+  .developing-confident-and {
+    margin: 0;
+  }
+  .developing-confident-and-container {
+    position: relative;
+    font-weight: 600;
+    z-index: 1;
+  }
+  .rectangle-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+    gap: var(--gap-3xs);
+  }
+  .ut-enim-ad {
+    position: relative;
+    font-size: var(--font-size-xl);
+    font-family: var(--font-lato);
+    color: var(--color-gray-100);
+    display: inline-block;
+    width: 528px;
+    height: 103px;
+    flex-shrink: 0;
+  }
+  .frame-div {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-6xl);
+  }
+  .view-more {
+    position: absolute;
+    top: calc(50% - 9.5px);
+    left: calc(50% - 39px);
+    font-weight: 600;
+  }
+  .view-more-wrapper {
+    position: relative;
+    border-radius: var(--br-xs);
+    background-color: var(--color-gold-100);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+    width: 242px;
+    height: 53px;
+    overflow: hidden;
+    flex-shrink: 0;
+    text-align: center;
+    font-size: var(--font-size-base);
+    font-family: var(--font-lato);
+  }
+  .frame-container {
+    position: absolute;
+    top: 224px;
+    left: 19px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-6xl);
+  }
+  .frame-item {
+    position: absolute;
+    margin: 0 !important;
+    top: 98px;
+    left: 310px;
+    background-color: var(--color-gold-100);
+    width: 309px;
+    height: 3px;
+    z-index: 0;
+  }
+  .enjoy-learning-with {
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    width: 618px;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .rectangle-group {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    position: relative;
+    gap: var(--gap-3xs);
+  }
+  .ut-enim-ad1 {
+    position: relative;
+    font-size: var(--font-size-xl);
+    font-family: var(--font-lato);
+    color: var(--color-gray-100);
+    display: inline-block;
+    width: 528px;
+    height: 102px;
+    flex-shrink: 0;
+  }
+  .frame-parent1,
+  .frame-parent2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: var(--gap-6xl);
+  }
+  .frame-parent1 {
+    position: absolute;
+    top: 754px;
+    left: 478px;
+    text-align: right;
+  }
+  .ut-enim-ad2 {
+    position: relative;
+    font-size: var(--font-size-xl);
+    font-family: var(--font-lato);
+    color: var(--color-gray-100);
+    display: inline-block;
+    width: 528px;
+    height: 107px;
+    flex-shrink: 0;
+    text-decoration: none;
+  }
+  .frame-parent3 {
+    position: absolute;
+    top: 1339px;
+    left: 19px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-6xl);
+  }
+  .frame {
+    position: absolute;
+    top: 382px;
+    left: 621px;
+    width: 213.83px;
+    height: 67.48px;
+    overflow: hidden;
+  }
+  .group-child,
+  .group-inner,
+  .group-item {
+    position: absolute;
+    top: 139px;
+    left: 638px;
+    width: 521.78px;
+    height: 512.18px;
+  }
+  .group-inner,
+  .group-item {
+    top: 665px;
+    left: 0;
+  }
+  .group-inner {
+    top: 1228px;
+    left: 620px;
+  }
+  .preparing-students-to-achieve-wrapper {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 405.89px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: var(--font-size-26xl);
+  }
+  .frame-group {
+    position: absolute;
+    top: 770px;
+    left: 140px;
+    width: 1159.78px;
+    height: 1740.18px;
+    font-size: var(--font-size-17xl);
+  }
+  .happy-customers-says {
+    position: absolute;
+    top: 2.05px;
+    left: 0;
+    font-size: 32px;
+  }
+  .left-right-arrows {
+    position: absolute;
+    top: 0;
+    left: 1002px;
+    width: 120px;
+    height: 50px;
+  }
+  .avatar-child {
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+  }
+  .avatar-child,
+  .lyod-gomez {
+    position: relative;
+  }
+  .avatar {
+    position: absolute;
+    top: 30px;
+    left: calc(50% - 49.5px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-mini);
+  }
+  .but-i-must {
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 30px;
+    display: inline-block;
+    width: 496px;
+  }
+  .asset-16-2,
+  .but-i-must-explain-to-you-how-wrapper {
+    position: absolute;
+    top: 179px;
+    left: 26px;
+    width: 496px;
+    height: 90px;
+  }
+  .asset-16-2 {
+    top: 30px;
+    left: 482px;
+    width: 40px;
+    height: 28px;
+    overflow: hidden;
+    opacity: 0.1;
+  }
+  .review {
+    position: absolute;
+    top: 79px;
+    left: 573px;
+    border-radius: var(--br-5xl);
+    background-color: var(--color-ivory);
+    border: 1px solid var(--gray);
+    box-sizing: border-box;
+    width: 549px;
+    height: 300px;
+  }
+  .avatar1 {
+    position: absolute;
+    top: 30px;
+    left: calc(50% - 50.5px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-mini);
+  }
+  .review1 {
+    position: absolute;
+    top: 79px;
+    left: 0;
+    border-radius: var(--br-5xl);
+    background-color: var(--color-ivory);
+    border: 1px solid var(--gray);
+    box-sizing: border-box;
+    width: 549px;
+    height: 300px;
+  }
+  .testimonials {
+    position: absolute;
+    top: 152px;
+    left: 154px;
+    width: 1122px;
+    height: 379px;
+  }
+  .testimonials-wrapper {
+    position: absolute;
+    top: 2624px;
+    left: 0;
+    background-color: #fffffa;
+    width: 1440px;
+    height: 683px;
+    overflow: hidden;
+    text-align: center;
+    color: var(--black);
+  }
+  .about-us-item {
+    position: absolute;
+    top: 3532px;
+    left: calc(50% - 154px);
+    background-color: var(--color-gold-100);
+    width: 309px;
+    height: 3px;
+  }
+  .why-its-works {
+    position: absolute;
+    top: 3469px;
+    left: calc(50% - 146px);
+    font-size: var(--font-size-26xl);
+    font-weight: 600;
+  }
+  .frame-icon {
+    position: relative;
+    width: 109.12px;
+    height: 100px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .students-practice-at {
+    position: relative;
+    font-size: var(--font-size-lg);
+    font-family: var(--font-lato);
+    text-align: center;
+    display: inline-block;
+    width: 334px;
+  }
+  .frame-parent6,
+  .personalized-learning-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-3xs);
+  }
+  .frame-parent6 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    gap: var(--gap-5xl);
+  }
+  .frame-icon1 {
+    position: relative;
+    width: 129.59px;
+    height: 100px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .frame-parent7 {
+    position: absolute;
+    top: 0;
+    left: 384px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-5xl);
+  }
+  .frame-icon2 {
+    position: relative;
+    width: 131.5px;
+    height: 100px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .frame-parent8 {
+    position: absolute;
+    top: 0;
+    left: 768px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-5xl);
+  }
+  .frame-parent5 {
+    position: absolute;
+    top: 3600px;
+    left: 169px;
+    width: 1102px;
+    height: 252px;
+    font-size: var(--font-size-5xl);
+  }
+  .about-us-inner {
+    position: absolute;
+    top: 4008px;
+    left: 0;
+    background-color: #f4ed5e;
+    width: 1440px;
+    height: 10px;
+  }
+  .about-us {
+    position: relative;
+    background-color: var(--color-ivory);
+    width: 100%;
+    height: 4128px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-lg);
+    color: var(--color-black);
+    font-family: var(--font-source-serif-pro);
+  }
